@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://samiulhq.github.io/mysite/about.html</loc>
+    <lastmod>2025-12-16T21:09:19.348Z</lastmod>
+  </url>
+  <url>
     <loc>https://samiulhq.github.io/mysite/blogs.html</loc>
-    <lastmod>2025-12-16T20:13:35.044Z</lastmod>
+    <lastmod>2025-12-16T21:09:19.348Z</lastmod>
   </url>
   <url>
     <loc>https://samiulhq.github.io/mysite/index.html</loc>
-    <lastmod>2025-12-16T20:16:07.905Z</lastmod>
+    <lastmod>2025-12-16T21:09:19.348Z</lastmod>
   </url>
   <url>
     <loc>https://samiulhq.github.io/mysite/resume.html</loc>
-    <lastmod>2025-12-16T20:13:29.161Z</lastmod>
-  </url>
-  <url>
-    <loc>https://samiulhq.github.io/mysite/about.html</loc>
-    <lastmod>2025-12-16T20:10:12.430Z</lastmod>
+    <lastmod>2025-12-16T21:09:19.348Z</lastmod>
   </url>
 </urlset>
