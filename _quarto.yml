@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "mysite"
+  navbar:
+    left:
+      - text: "About Me"
+        href: about.qmd
+      - text: "Resume"
+        href: resume.qmd
+      - text: "Blogs"
+        href: blogs.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/samiulhaque/
+      - icon: github
+        href: https://github.com/samiulhq
+execute:
+  freeze: auto
