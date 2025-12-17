@@ -2,18 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://samiulhq.github.io/mysite/about.html</loc>
-    <lastmod>2025-12-16T21:09:19.348Z</lastmod>
+    <lastmod>2025-12-17T02:09:26.875Z</lastmod>
+  </url>
+  <url>
+    <loc>https://samiulhq.github.io/mysite/posts/second-post.html</loc>
+    <lastmod>2025-12-17T02:09:26.875Z</lastmod>
   </url>
   <url>
     <loc>https://samiulhq.github.io/mysite/blogs.html</loc>
-    <lastmod>2025-12-16T21:09:19.348Z</lastmod>
+    <lastmod>2025-12-17T02:09:26.875Z</lastmod>
   </url>
   <url>
     <loc>https://samiulhq.github.io/mysite/index.html</loc>
-    <lastmod>2025-12-16T21:09:19.348Z</lastmod>
+    <lastmod>2025-12-17T02:09:26.875Z</lastmod>
+  </url>
+  <url>
+    <loc>https://samiulhq.github.io/mysite/posts/first-post.html</loc>
+    <lastmod>2025-12-17T02:09:26.875Z</lastmod>
   </url>
   <url>
     <loc>https://samiulhq.github.io/mysite/resume.html</loc>
-    <lastmod>2025-12-16T21:09:19.348Z</lastmod>
+    <lastmod>2025-12-17T02:09:26.875Z</lastmod>
   </url>
 </urlset>

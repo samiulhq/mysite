@@ -7,10 +7,31 @@
     "text": "About this site"
   },
   {
+    "objectID": "posts/second-post.html",
+    "href": "posts/second-post.html",
+    "title": "My First Blog Post",
+    "section": "",
+    "text": "Your blog content here…"
+  },
+  {
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Blogs",
+    "section": "",
+    "text": "My First Blog Post\n\n\n\ndata science\n\npython\n\n\n\nA brief description of the post\n\n\n\n\n\nDec 1, 2024\n\n\nSamiul Haque\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Blog Post\n\n\n\ndata science\n\npython\n\n\n\nA brief description of the post\n\n\n\n\n\nDec 1, 2024\n\n\nSamiul Haque\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Samiul Haque",
     "section": "",
     "text": "This is my Personal Website"
+  },
+  {
+    "objectID": "posts/first-post.html",
+    "href": "posts/first-post.html",
+    "title": "My First Blog Post",
+    "section": "",
+    "text": "Your blog content here…"
   }
 ]
