@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Samiul Haque",
+    "title": "",
     "section": "",
-    "text": "This is my Personal Website"
+    "text": "Hi I am Samiul Haque. I specialize in building AI and Data solutions for Life Sciences organizations, bridging deep technical expertise with strategic business outcomes. This is my personal webpage."
   },
   {
     "objectID": "about.html",
@@ -25,7 +25,7 @@
     "href": "blogs.html",
     "title": "Blogs",
     "section": "",
-    "text": "My First Blog Post\n\n\n\ndata science\n\npython\n\n\n\nA brief description of the post\n\n\n\n\n\nDec 1, 2024\n\n\nSamiul Haque\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Blog Post\n\n\n\ndata science\n\npython\n\n\n\nA brief description of the post\n\n\n\n\n\nDec 1, 2024\n\n\nSamiul Haque\n\n\n\n\n\nNo matching items"
+    "text": "My First Blog Post\n\n\n\ndata science\n\npython\n\n\n\nA brief description of the post\n\n\n\n\n\nDec 1, 2024\n\n\nSamiul Haque\n\n\n\n\n\n\n\n\n\n\n\n\nMy Second Blog Post\n\n\n\ndata science\n\npython\n\n\n\nA brief description of the post\n\n\n\n\n\nDec 1, 2024\n\n\nSamiul Haque\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/second-post.html",
@@ -33,5 +33,68 @@
     "title": "My First Blog Post",
     "section": "",
     "text": "Your blog content here…"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Samiul Haque",
+    "section": "",
+    "text": "I’m a data scientist passionate about [your interests]. I specialize in [your skills/areas].\nCurrently, I’m [what you’re doing now]. I enjoy working with [technologies/methods you use].\nWhen I’m not analyzing data, you can find me [your hobbies/interests]."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Samiul Haque, PhD",
+    "section": "",
+    "text": "Solutions Architect with 10+ years of experience across data engineering, applied AI, and analytics. Consistent top performer: Top 2% (3-time Customer Advisory Excellence Award winner) at SAS and Top 1% (among 1000+ engineers) at Samsung. Proven record delivering $100M+ pipeline impact through enterprise solution design, RFP strategy, and executive-level demonstrations. Experienced in mapping complex business problems into technical solutions that fit customer workflows. Strong advocate for customer needs in product discussions."
+  },
+  {
+    "objectID": "resume.html#summary",
+    "href": "resume.html#summary",
+    "title": "Samiul Haque, PhD",
+    "section": "",
+    "text": "Solutions Architect with 10+ years of experience across data engineering, applied AI, and analytics. Consistent top performer: Top 2% (3-time Customer Advisory Excellence Award winner) at SAS and Top 1% (among 1000+ engineers) at Samsung. Proven record delivering $100M+ pipeline impact through enterprise solution design, RFP strategy, and executive-level demonstrations. Experienced in mapping complex business problems into technical solutions that fit customer workflows. Strong advocate for customer needs in product discussions."
+  },
+  {
+    "objectID": "resume.html#core-skills",
+    "href": "resume.html#core-skills",
+    "title": "Samiul Haque, PhD",
+    "section": "Core Skills",
+    "text": "Core Skills\nSolution Architecture • AI/ML & GenAI Solution Design • Customer Advisory & Value Mapping • Proof-of-Value Development • Executive Storytelling • Data Engineering & ETL Optimization • Life Sciences Domain Expertise"
+  },
+  {
+    "objectID": "resume.html#awards-recognitions",
+    "href": "resume.html#awards-recognitions",
+    "title": "Samiul Haque, PhD",
+    "section": "Awards & Recognitions",
+    "text": "Awards & Recognitions\n\nCustomer Advisory Excellence Award winner three consecutive years (FY22-FY24), Top 2% of global presales organization\nRanked top 1% in Samsung’s annual programming assessment (2014, 2015) among 1000+ global engineers"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Samiul Haque, PhD",
+    "section": "Experience",
+    "text": "Experience\n\nSAS Institute | Sr. Presales Engineer – Healthcare & Life Sciences Customer Advisory\nCary, NC | August 2022 – Present\n\nSupported enterprise deal cycles across 20+ Fortune 500 pharmaceutical, biotech, and CRO accounts, generating &gt;$100M qualified pipeline\nLed discovery, qualification, RFP strategy, and C-suite briefings (VP/Chief Data Officer level) for $1-13M ARR enterprise data and AI platform selections\nBuilt and delivered GenAI proof-of-value demos integrating RAG pipelines and MCP servers, accelerating platform evaluation cycles and differentiating against competitive alternatives\nDelivered 100+ customer demos, workshops, and PoCs across real-world evidence (RWE), commercial analytics, and clinical R&D use cases (SCE, CDR); shortened sales cycles by ≈30%\nPartnered with GSIs (Accenture, Deloitte) and cloud vendors (AWS, Azure) to design and deploy GxP compliant compute environment for Fortune 100 pharma clients\nCreated AI/ML prototypes using 20TB real-world data (RWD) to support trial feasibility, synthetic control arm analysis, and regulatory submission workflows\nMentored 2 interns and 2 junior engineers on presales process, demo development, and executive presentation skills\n\n\n\nSAS Institute | Presales Engineer – Healthcare & Life Sciences Customer Advisory\nCary, NC | March 2021 – August 2022\n\nSupported $40M+ qualified pipeline across 10+ enterprise pharmaceutical and biotech accounts\nDelivered 50+ technical evaluations and proof-of-concepts with conversion to qualified opportunity stage\nImproved ETL efficiency in data warehouse migration projects by optimizing SQL and Snowflake macros, reducing customer infrastructure costs by ≈25%\nDesigned ML-based batch optimization solution for pharmaceutical manufacturing to increase yield and throughput\nCreated AI/ML prototypes using 20TB real-world data for trial feasibility and external control arm analysis supporting regulatory submissions\nCo-authored industry whitepapers and delivered conference presentations (PHUSE, PharmaSUG, FDA CSS) to establish thought leadership and generate qualified leads\nLed hands-on workshops for multiple SAS Viya customers (&gt;$2MM ARR), driving more widespread use of SAS products and wider and deeper adoption of ML & AI on SAS Viya platform\nDeveloped reusable enablement assets including webinars, community blogs, and workshop scripts that expanded the presales team’s reach and improved consistency in customer engagements\n\n\n\nSAS Institute | Graduate Intern (Year-Round)\nCary, NC | May 2019 – February 2021\n\nDeveloped agricultural data model and deep learning pipeline (Keras, TensorFlow) for decision support platform, leading to a full-time offer\nCreated data dictionary and ML models for crop phenotyping using high-throughput imagery\n\n\n\nSamsung R&D Institute | Sr. Software Engineer\nDhaka, Bangladesh | January 2014 – June 2015\n\nPromoted to Senior Software Engineer based on technical contributions and project delivery\nLed computer vision and ML algorithm development for Samsung Galaxy camera systems; delivered 5+ research prototypes to product teams\nMentored 2 interns on algorithm optimization, code quality, and research methodologies\n\n\n\nSamsung R&D Institute | Software Engineer\nDhaka, Bangladesh | May 2012 – January 2014\n\nImplemented computer vision and ML algorithms for Samsung AllShare Platform (Windows 8)\nContributed to Galaxy camera feature development and prototype delivery"
+  },
+  {
+    "objectID": "resume.html#technical-stack",
+    "href": "resume.html#technical-stack",
+    "title": "Samiul Haque, PhD",
+    "section": "Technical Stack",
+    "text": "Technical Stack\nLanguages: Python, R, SQL, SAS, CASL, C/C++\nAI/ML: scikit-learn, Keras, TensorFlow, LangChain, SAS Viya\nPlatforms: Databricks, Spark, Snowflake, Azure, SAS Viya\nVisualization: Tableau, matplotlib, SAS Visual Analytics, R Shiny\nVersion Control: Git, Subversion\nRWD & Standards: OMOP, FHIR, CDISC, EHR/Claims\nGenAI/Vector DB: MCP, LangChain, ChromaDB, FAISS, OpenAI"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Samiul Haque, PhD",
+    "section": "Education",
+    "text": "Education\nPh.D., Electrical Engineering – North Carolina State University\nM.S., Electrical Engineering – North Carolina State University\nB.Sc., Electrical Engineering – Bangladesh University of Engineering & Technology"
+  },
+  {
+    "objectID": "resume.html#publications-talks",
+    "href": "resume.html#publications-talks",
+    "title": "Samiul Haque, PhD",
+    "section": "Publications & Talks",
+    "text": "Publications & Talks\nPresented at 12+ industry conferences (PHUSE, PharmaSUG, FDA CSS, SAS Innovate); co-authored 6 peer-reviewed scientific publications [Google Scholar]"
   }
 ]

@@ -1,6 +1,18 @@
 ---
-title: "Samiul Haque"
+title: ""
+image: files/headshot.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/samiulhaque/
+    - text: GitHub
+      href: https://github.com/samiulhq
+    - text: Email
+      href: mailto:samiul.haque@live.com
 ---
-
-This is my Personal Website
-
+        
+Hi I am Samiul Haque. I specialize in building AI and Data solutions for Life Sciences organizations, bridging deep technical expertise with strategic business outcomes. This is my personal webpage.

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>resume</title>
+<title>Samiul Haque, PhD</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -39,12 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b758ccaa5987ceb1b75504551e579abf.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2753728b99b8c9f1f485368ab677fd3f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-2753728b99b8c9f1f485368ab677fd3f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-2753728b99b8c9f1f485368ab677fd3f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5ae656bd61ce2a4dbe80ac542463ef18.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-616f24ad945f079f39c538b59aa0061d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -74,9 +72,170 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
+<link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-dark"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = true;
+    const darkModeDefault = authorPrefersDark;
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -119,6 +278,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -127,19 +287,161 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#summary" id="toc-summary" class="nav-link active" data-scroll-target="#summary">Summary</a></li>
+  <li><a href="#core-skills" id="toc-core-skills" class="nav-link" data-scroll-target="#core-skills">Core Skills</a></li>
+  <li><a href="#awards-recognitions" id="toc-awards-recognitions" class="nav-link" data-scroll-target="#awards-recognitions">Awards &amp; Recognitions</a></li>
+  <li><a href="#experience" id="toc-experience" class="nav-link" data-scroll-target="#experience">Experience</a>
+  <ul class="collapse">
+  <li><a href="#sas-institute-sr.-presales-engineer-healthcare-life-sciences-customer-advisory" id="toc-sas-institute-sr.-presales-engineer-healthcare-life-sciences-customer-advisory" class="nav-link" data-scroll-target="#sas-institute-sr.-presales-engineer-healthcare-life-sciences-customer-advisory">SAS Institute | Sr.&nbsp;Presales Engineer – Healthcare &amp; Life Sciences Customer Advisory</a></li>
+  <li><a href="#sas-institute-presales-engineer-healthcare-life-sciences-customer-advisory" id="toc-sas-institute-presales-engineer-healthcare-life-sciences-customer-advisory" class="nav-link" data-scroll-target="#sas-institute-presales-engineer-healthcare-life-sciences-customer-advisory">SAS Institute | Presales Engineer – Healthcare &amp; Life Sciences Customer Advisory</a></li>
+  <li><a href="#sas-institute-graduate-intern-year-round" id="toc-sas-institute-graduate-intern-year-round" class="nav-link" data-scroll-target="#sas-institute-graduate-intern-year-round">SAS Institute | Graduate Intern (Year-Round)</a></li>
+  <li><a href="#samsung-rd-institute-sr.-software-engineer" id="toc-samsung-rd-institute-sr.-software-engineer" class="nav-link" data-scroll-target="#samsung-rd-institute-sr.-software-engineer">Samsung R&amp;D Institute | Sr.&nbsp;Software Engineer</a></li>
+  <li><a href="#samsung-rd-institute-software-engineer" id="toc-samsung-rd-institute-software-engineer" class="nav-link" data-scroll-target="#samsung-rd-institute-software-engineer">Samsung R&amp;D Institute | Software Engineer</a></li>
+  </ul></li>
+  <li><a href="#technical-stack" id="toc-technical-stack" class="nav-link" data-scroll-target="#technical-stack">Technical Stack</a></li>
+  <li><a href="#education" id="toc-education" class="nav-link" data-scroll-target="#education">Education</a></li>
+  <li><a href="#publications-talks" id="toc-publications-talks" class="nav-link" data-scroll-target="#publications-talks">Publications &amp; Talks</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Samiul Haque, PhD</h1>
+<p class="subtitle lead">Strategic Advisor | Enterprise Data, AI, &amp; Analytics</p>
+</div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
+</header>
 
+
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>Solutions Architect with 10+ years of experience across data engineering, applied AI, and analytics. Consistent top performer: Top 2% (3-time Customer Advisory Excellence Award winner) at SAS and Top 1% (among 1000+ engineers) at Samsung. Proven record delivering $100M+ pipeline impact through enterprise solution design, RFP strategy, and executive-level demonstrations. Experienced in mapping complex business problems into technical solutions that fit customer workflows. Strong advocate for customer needs in product discussions.</p>
+</section>
+<section id="core-skills" class="level2">
+<h2 class="anchored" data-anchor-id="core-skills">Core Skills</h2>
+<p>Solution Architecture • AI/ML &amp; GenAI Solution Design • Customer Advisory &amp; Value Mapping • Proof-of-Value Development • Executive Storytelling • Data Engineering &amp; ETL Optimization • Life Sciences Domain Expertise</p>
+</section>
+<section id="awards-recognitions" class="level2">
+<h2 class="anchored" data-anchor-id="awards-recognitions">Awards &amp; Recognitions</h2>
+<ul>
+<li><strong>Customer Advisory Excellence Award</strong> winner three consecutive years (FY22-FY24), Top 2% of global presales organization</li>
+<li>Ranked <strong>top 1%</strong> in Samsung’s annual programming assessment (2014, 2015) among 1000+ global engineers</li>
+</ul>
+</section>
+<section id="experience" class="level2">
+<h2 class="anchored" data-anchor-id="experience">Experience</h2>
+<section id="sas-institute-sr.-presales-engineer-healthcare-life-sciences-customer-advisory" class="level3">
+<h3 class="anchored" data-anchor-id="sas-institute-sr.-presales-engineer-healthcare-life-sciences-customer-advisory">SAS Institute | Sr.&nbsp;Presales Engineer – Healthcare &amp; Life Sciences Customer Advisory</h3>
+<p><strong>Cary, NC | August 2022 – Present</strong></p>
+<ul>
+<li>Supported enterprise deal cycles across 20+ Fortune 500 pharmaceutical, biotech, and CRO accounts, generating &gt;$100M qualified pipeline</li>
+<li>Led discovery, qualification, RFP strategy, and C-suite briefings (VP/Chief Data Officer level) for $1-13M ARR enterprise data and AI platform selections</li>
+<li>Built and delivered GenAI proof-of-value demos integrating RAG pipelines and MCP servers, accelerating platform evaluation cycles and differentiating against competitive alternatives</li>
+<li>Delivered 100+ customer demos, workshops, and PoCs across real-world evidence (RWE), commercial analytics, and clinical R&amp;D use cases (SCE, CDR); shortened sales cycles by ≈30%</li>
+<li>Partnered with GSIs (Accenture, Deloitte) and cloud vendors (AWS, Azure) to design and deploy GxP compliant compute environment for Fortune 100 pharma clients</li>
+<li>Created AI/ML prototypes using 20TB real-world data (RWD) to support trial feasibility, synthetic control arm analysis, and regulatory submission workflows</li>
+<li>Mentored 2 interns and 2 junior engineers on presales process, demo development, and executive presentation skills</li>
+</ul>
+</section>
+<section id="sas-institute-presales-engineer-healthcare-life-sciences-customer-advisory" class="level3">
+<h3 class="anchored" data-anchor-id="sas-institute-presales-engineer-healthcare-life-sciences-customer-advisory">SAS Institute | Presales Engineer – Healthcare &amp; Life Sciences Customer Advisory</h3>
+<p><strong>Cary, NC | March 2021 – August 2022</strong></p>
+<ul>
+<li>Supported $40M+ qualified pipeline across 10+ enterprise pharmaceutical and biotech accounts</li>
+<li>Delivered 50+ technical evaluations and proof-of-concepts with conversion to qualified opportunity stage</li>
+<li>Improved ETL efficiency in data warehouse migration projects by optimizing SQL and Snowflake macros, reducing customer infrastructure costs by ≈25%</li>
+<li>Designed ML-based batch optimization solution for pharmaceutical manufacturing to increase yield and throughput</li>
+<li>Created AI/ML prototypes using 20TB real-world data for trial feasibility and external control arm analysis supporting regulatory submissions</li>
+<li>Co-authored industry whitepapers and delivered conference presentations (PHUSE, PharmaSUG, FDA CSS) to establish thought leadership and generate qualified leads</li>
+<li>Led hands-on workshops for multiple SAS Viya customers (&gt;$2MM ARR), driving more widespread use of SAS products and wider and deeper adoption of ML &amp; AI on SAS Viya platform</li>
+<li>Developed reusable enablement assets including webinars, community blogs, and workshop scripts that expanded the presales team’s reach and improved consistency in customer engagements</li>
+</ul>
+</section>
+<section id="sas-institute-graduate-intern-year-round" class="level3">
+<h3 class="anchored" data-anchor-id="sas-institute-graduate-intern-year-round">SAS Institute | Graduate Intern (Year-Round)</h3>
+<p><strong>Cary, NC | May 2019 – February 2021</strong></p>
+<ul>
+<li>Developed agricultural data model and deep learning pipeline (Keras, TensorFlow) for decision support platform, leading to a full-time offer</li>
+<li>Created data dictionary and ML models for crop phenotyping using high-throughput imagery</li>
+</ul>
+</section>
+<section id="samsung-rd-institute-sr.-software-engineer" class="level3">
+<h3 class="anchored" data-anchor-id="samsung-rd-institute-sr.-software-engineer">Samsung R&amp;D Institute | Sr.&nbsp;Software Engineer</h3>
+<p><strong>Dhaka, Bangladesh | January 2014 – June 2015</strong></p>
+<ul>
+<li>Promoted to Senior Software Engineer based on technical contributions and project delivery</li>
+<li>Led computer vision and ML algorithm development for Samsung Galaxy camera systems; delivered 5+ research prototypes to product teams</li>
+<li>Mentored 2 interns on algorithm optimization, code quality, and research methodologies</li>
+</ul>
+</section>
+<section id="samsung-rd-institute-software-engineer" class="level3">
+<h3 class="anchored" data-anchor-id="samsung-rd-institute-software-engineer">Samsung R&amp;D Institute | Software Engineer</h3>
+<p><strong>Dhaka, Bangladesh | May 2012 – January 2014</strong></p>
+<ul>
+<li>Implemented computer vision and ML algorithms for Samsung AllShare Platform (Windows 8)</li>
+<li>Contributed to Galaxy camera feature development and prototype delivery</li>
+</ul>
+</section>
+</section>
+<section id="technical-stack" class="level2">
+<h2 class="anchored" data-anchor-id="technical-stack">Technical Stack</h2>
+<p><strong>Languages:</strong> Python, R, SQL, SAS, CASL, C/C++</p>
+<p><strong>AI/ML:</strong> scikit-learn, Keras, TensorFlow, LangChain, SAS Viya</p>
+<p><strong>Platforms:</strong> Databricks, Spark, Snowflake, Azure, SAS Viya</p>
+<p><strong>Visualization:</strong> Tableau, matplotlib, SAS Visual Analytics, R Shiny</p>
+<p><strong>Version Control:</strong> Git, Subversion</p>
+<p><strong>RWD &amp; Standards:</strong> OMOP, FHIR, CDISC, EHR/Claims</p>
+<p><strong>GenAI/Vector DB:</strong> MCP, LangChain, ChromaDB, FAISS, OpenAI</p>
+</section>
+<section id="education" class="level2">
+<h2 class="anchored" data-anchor-id="education">Education</h2>
+<p><strong>Ph.D., Electrical Engineering</strong> – North Carolina State University</p>
+<p><strong>M.S., Electrical Engineering</strong> – North Carolina State University</p>
+<p><strong>B.Sc., Electrical Engineering</strong> – Bangladesh University of Engineering &amp; Technology</p>
+</section>
+<section id="publications-talks" class="level2">
+<h2 class="anchored" data-anchor-id="publications-talks">Publications &amp; Talks</h2>
+<p>Presented at 12+ industry conferences (PHUSE, PharmaSUG, FDA CSS, SAS Innovate); co-authored 6 peer-reviewed scientific publications [<a href="https://scholar.google.com">Google Scholar</a>]</p>
+
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
     const icon = "";
     const anchorJS = new window.AnchorJS();
     anchorJS.options = {

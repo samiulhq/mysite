@@ -1,0 +1,90 @@
+---
+title: "Samiul Haque, PhD"
+subtitle: "Strategic Advisor | Enterprise Data, AI, & Analytics" 
+---
+
+
+## Summary
+
+Solutions Architect with 10+ years of experience across data engineering, applied AI, and analytics. Consistent top performer: Top 2% (3-time Customer Advisory Excellence Award winner) at SAS and Top 1% (among 1000+ engineers) at Samsung. Proven record delivering $100M+ pipeline impact through enterprise solution design, RFP strategy, and executive-level demonstrations. Experienced in mapping complex business problems into technical solutions that fit customer workflows. Strong advocate for customer needs in product discussions.
+
+## Core Skills
+
+Solution Architecture • AI/ML & GenAI Solution Design • Customer Advisory & Value Mapping • Proof-of-Value Development • Executive Storytelling • Data Engineering & ETL Optimization • Life Sciences Domain Expertise
+
+## Awards & Recognitions
+
+- **Customer Advisory Excellence Award** winner three consecutive years (FY22-FY24), Top 2% of global presales organization
+- Ranked **top 1%** in Samsung's annual programming assessment (2014, 2015) among 1000+ global engineers
+
+## Experience
+
+### SAS Institute | Sr. Presales Engineer – Healthcare & Life Sciences Customer Advisory
+**Cary, NC | August 2022 – Present**
+
+- Supported enterprise deal cycles across 20+ Fortune 500 pharmaceutical, biotech, and CRO accounts, generating >$100M qualified pipeline
+- Led discovery, qualification, RFP strategy, and C-suite briefings (VP/Chief Data Officer level) for $1-13M ARR enterprise data and AI platform selections
+- Built and delivered GenAI proof-of-value demos integrating RAG pipelines and MCP servers, accelerating platform evaluation cycles and differentiating against competitive alternatives
+- Delivered 100+ customer demos, workshops, and PoCs across real-world evidence (RWE), commercial analytics, and clinical R&D use cases (SCE, CDR); shortened sales cycles by ≈30%
+- Partnered with GSIs (Accenture, Deloitte) and cloud vendors (AWS, Azure) to design and deploy GxP compliant compute environment for Fortune 100 pharma clients
+- Created AI/ML prototypes using 20TB real-world data (RWD) to support trial feasibility, synthetic control arm analysis, and regulatory submission workflows
+- Mentored 2 interns and 2 junior engineers on presales process, demo development, and executive presentation skills
+
+### SAS Institute | Presales Engineer – Healthcare & Life Sciences Customer Advisory
+**Cary, NC | March 2021 – August 2022**
+
+- Supported $40M+ qualified pipeline across 10+ enterprise pharmaceutical and biotech accounts
+- Delivered 50+ technical evaluations and proof-of-concepts with conversion to qualified opportunity stage
+- Improved ETL efficiency in data warehouse migration projects by optimizing SQL and Snowflake macros, reducing customer infrastructure costs by ≈25%
+- Designed ML-based batch optimization solution for pharmaceutical manufacturing to increase yield and throughput
+- Created AI/ML prototypes using 20TB real-world data for trial feasibility and external control arm analysis supporting regulatory submissions
+- Co-authored industry whitepapers and delivered conference presentations (PHUSE, PharmaSUG, FDA CSS) to establish thought leadership and generate qualified leads
+- Led hands-on workshops for multiple SAS Viya customers (>$2MM ARR), driving more widespread use of SAS products and wider and deeper adoption of ML & AI on SAS Viya platform
+- Developed reusable enablement assets including webinars, community blogs, and workshop scripts that expanded the presales team's reach and improved consistency in customer engagements
+
+### SAS Institute | Graduate Intern (Year-Round)
+**Cary, NC | May 2019 – February 2021**
+
+- Developed agricultural data model and deep learning pipeline (Keras, TensorFlow) for decision support platform, leading to a full-time offer
+- Created data dictionary and ML models for crop phenotyping using high-throughput imagery
+
+### Samsung R&D Institute | Sr. Software Engineer
+**Dhaka, Bangladesh | January 2014 – June 2015**
+
+- Promoted to Senior Software Engineer based on technical contributions and project delivery
+- Led computer vision and ML algorithm development for Samsung Galaxy camera systems; delivered 5+ research prototypes to product teams
+- Mentored 2 interns on algorithm optimization, code quality, and research methodologies
+
+### Samsung R&D Institute | Software Engineer
+**Dhaka, Bangladesh | May 2012 – January 2014**
+
+- Implemented computer vision and ML algorithms for Samsung AllShare Platform (Windows 8)
+- Contributed to Galaxy camera feature development and prototype delivery
+
+## Technical Stack
+
+**Languages:** Python, R, SQL, SAS, CASL, C/C++
+
+**AI/ML:** scikit-learn, Keras, TensorFlow, LangChain, SAS Viya
+
+**Platforms:** Databricks, Spark, Snowflake, Azure, SAS Viya
+
+**Visualization:** Tableau, matplotlib, SAS Visual Analytics, R Shiny
+
+**Version Control:** Git, Subversion
+
+**RWD & Standards:** OMOP, FHIR, CDISC, EHR/Claims
+
+**GenAI/Vector DB:** MCP, LangChain, ChromaDB, FAISS, OpenAI
+
+## Education
+
+**Ph.D., Electrical Engineering** – North Carolina State University
+
+**M.S., Electrical Engineering** – North Carolina State University
+
+**B.Sc., Electrical Engineering** – Bangladesh University of Engineering & Technology
+
+## Publications & Talks
+
+Presented at 12+ industry conferences (PHUSE, PharmaSUG, FDA CSS, SAS Innovate); co-authored 6 peer-reviewed scientific publications [[Google Scholar](https://scholar.google.com)]

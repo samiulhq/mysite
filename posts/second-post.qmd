@@ -1,5 +1,5 @@
 ---
-title: "My First Blog Post"
+title: "My Second Blog Post"
 author: "Samiul Haque"
 date: "2024-12-01"
 categories: [data science, python]

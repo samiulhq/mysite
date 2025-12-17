@@ -1,6 +1,6 @@
 project:
   type: website
-
+  
 brand: _brand.yml
 website:
   title: ""
@@ -20,5 +20,14 @@ website:
         href: https://www.linkedin.com/in/samiulhaque/
       - icon: github
         href: https://github.com/samiulhq
+
+format:
+  html:
+    theme: 
+      dark: solar
+      light: minty
+      
+    css: styles.css
+    toc: true
 execute:
   freeze: auto
