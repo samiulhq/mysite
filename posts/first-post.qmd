@@ -1,0 +1,9 @@
+---
+title: "My First Blog Post"
+author: "Samiul Haque"
+date: "2024-12-01"
+categories: [data science, python]
+description: "A brief description of the post"
+---
+
+Your blog content here...

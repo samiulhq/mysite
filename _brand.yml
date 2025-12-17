@@ -1,0 +1,25 @@
+meta:
+  name: Samiul Haque
+  link: https://yourwebsite.com
+
+color:
+  palette:
+    primary: "#2C3E50"
+    secondary: "#3498DB"
+    tertiary: "#E74C3C"
+    success: "#27AE60"
+    info: "#16A085"
+    warning: "#F39C12"
+    danger: "#C0392B"
+    light: "#ECF0F1"
+    dark: "#34495E"
+
+typography:
+  base:
+    family: "Open Sans, sans-serif"
+    size: "1rem"
+    line-height: 1.6
+  headings:
+    family: "Montserrat, sans-serif"
+    weight: 600
+

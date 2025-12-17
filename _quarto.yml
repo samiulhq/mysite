@@ -1,10 +1,14 @@
 project:
   type: website
 
+brand: _brand.yml
 website:
   title: ""
+  
   navbar:
     left:
+      - text: "Home"
+        href: index.qmd
       - text: "About Me"
         href: about.qmd
       - text: "Resume"

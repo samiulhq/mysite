@@ -13,5 +13,11 @@
   },
   "blogs.qmd": {
     "blogs.html": "cfafee01"
+  },
+  "posts/first-post.qmd": {
+    "first-post.html": "97ea9991"
+  },
+  "posts/second-post.qmd": {
+    "second-post.html": "28c4698f"
   }
 }
