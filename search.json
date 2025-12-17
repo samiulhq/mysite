@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site"
+    "text": "Add your bio and information here."
   },
   {
     "objectID": "posts/second-post.html",
@@ -39,14 +39,14 @@
     "href": "resume.html",
     "title": "Samiul Haque, PhD",
     "section": "",
-    "text": "Solutions Architect with 10+ years of experience across data engineering, applied AI, and analytics. Consistent top performer: Top 2% (3-time Customer Advisory Excellence Award winner) at SAS and Top 1% (among 1000+ engineers) at Samsung. Proven record delivering $100M+ pipeline impact through enterprise solution design, RFP strategy, and executive-level demonstrations. Experienced in mapping complex business problems into technical solutions that fit customer workflows. Strong advocate for customer needs in product discussions."
+    "text": "Solutions Architect with 10+ years of experience across data engineering, applied AI, and analytics. Proven record delivering $100M+ pipeline impact through enterprise solution design, RFP strategy, and executive-level demonstrations. Experienced in mapping complex business problems into technical solutions that fit customer workflows. Strong advocate for customer needs in product discussions."
   },
   {
     "objectID": "resume.html#summary",
     "href": "resume.html#summary",
     "title": "Samiul Haque, PhD",
     "section": "",
-    "text": "Solutions Architect with 10+ years of experience across data engineering, applied AI, and analytics. Consistent top performer: Top 2% (3-time Customer Advisory Excellence Award winner) at SAS and Top 1% (among 1000+ engineers) at Samsung. Proven record delivering $100M+ pipeline impact through enterprise solution design, RFP strategy, and executive-level demonstrations. Experienced in mapping complex business problems into technical solutions that fit customer workflows. Strong advocate for customer needs in product discussions."
+    "text": "Solutions Architect with 10+ years of experience across data engineering, applied AI, and analytics. Proven record delivering $100M+ pipeline impact through enterprise solution design, RFP strategy, and executive-level demonstrations. Experienced in mapping complex business problems into technical solutions that fit customer workflows. Strong advocate for customer needs in product discussions."
   },
   {
     "objectID": "resume.html#core-skills",
@@ -54,13 +54,6 @@
     "title": "Samiul Haque, PhD",
     "section": "Core Skills",
     "text": "Core Skills\nSolution Architecture • AI/ML & GenAI Solution Design • Customer Advisory & Value Mapping • Proof-of-Value Development • Executive Storytelling • Data Engineering & ETL Optimization • Life Sciences Domain Expertise"
-  },
-  {
-    "objectID": "resume.html#awards-recognitions",
-    "href": "resume.html#awards-recognitions",
-    "title": "Samiul Haque, PhD",
-    "section": "Awards & Recognitions",
-    "text": "Awards & Recognitions\n\nCustomer Advisory Excellence Award winner three consecutive years (FY22-FY24), Top 2% of global presales organization\nRanked top 1% in Samsung’s annual programming assessment (2014, 2015) among 1000+ global engineers"
   },
   {
     "objectID": "resume.html#experience",
